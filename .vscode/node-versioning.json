@@ -1,0 +1,57 @@
+{
+  "nodes": [
+    {
+      "id": "17692940993719t2vo5qft",
+      "x": 0,
+      "y": 0,
+      "label": "version from main",
+      "commitMessage": "version from main",
+      "parentIds": [],
+      "timestamp": "2026-01-24T22:34:59.371Z",
+      "branchName": "main",
+      "isArchived": false
+    },
+    {
+      "id": "1769295526415gm5sljvnf",
+      "x": -148,
+      "y": -168,
+      "label": "version from node-1769295526355",
+      "commitMessage": "version from node-1769295526355",
+      "parentIds": [
+        "17692940993719t2vo5qft"
+      ],
+      "timestamp": "2026-01-24T22:58:46.473Z",
+      "branchName": "node-1769295526355",
+      "isArchived": false
+    },
+    {
+      "id": "1769295533375yc1s8lt7e",
+      "x": 440,
+      "y": 100,
+      "label": "version from node-1769295533317",
+      "commitMessage": "version from node-1769295533317",
+      "parentIds": [
+        "17692940993719t2vo5qft"
+      ],
+      "timestamp": "2026-01-24T22:58:53.433Z",
+      "branchName": "node-1769295533317",
+      "isArchived": false
+    }
+  ],
+  "viewport": {
+    "x": -90,
+    "y": 41,
+    "zoom": 0.25
+  },
+  "nodeToBranchMap": {
+    "17692940993719t2vo5qft": "main",
+    "1769295526415gm5sljvnf": "node-1769295526355",
+    "1769295533375yc1s8lt7e": "node-1769295533317"
+  },
+  "branchToNodeMap": {
+    "main": "17692940993719t2vo5qft",
+    "node-1769295526355": "1769295526415gm5sljvnf",
+    "node-1769295533317": "1769295533375yc1s8lt7e"
+  },
+  "rootBranch": "main"
+}

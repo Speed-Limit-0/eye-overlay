@@ -7,8 +7,9 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Eye Tracker - Screen Quadrant Detection",
-  description: "Track which quadrant of the screen you are looking at using webcam-based eye tracking",
+  title: "Google Meet Autopilot",
+  description:
+    "Automatically detect gaze and assist Google Meet interactions using webcam-based eye tracking",
   icons: {
     icon: [
       {
